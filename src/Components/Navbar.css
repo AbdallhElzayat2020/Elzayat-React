@@ -1,0 +1,13 @@
+.navbar {
+    min-height: 80px;
+}
+
+.logo {
+    width: 70px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}

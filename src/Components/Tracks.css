@@ -1,0 +1,22 @@
+.tracks .container .image img {
+    width: 100%;
+    max-width: 100%;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.tracks .container .text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tracks .container .line {
+    background-color: rgb(6, 150, 246);
+    width: 100%;
+    height: 10px;
+    margin: 100px 0;
+}

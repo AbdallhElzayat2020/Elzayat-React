@@ -1,0 +1,18 @@
+.sidebar {
+    background-color: black;
+    height: 120px;
+    width: 100%;
+    box-shadow: 0 0 10px #eee inset;
+}
+
+@media (max-width:767px) {
+    .heading {
+        font-size: 16px;
+    }
+
+    .social {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}

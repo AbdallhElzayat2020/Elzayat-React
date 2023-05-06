@@ -1,0 +1,27 @@
+.members .container .card {
+    overflow: hidden;
+
+}
+
+.members .container .card img {
+    height: 500px;
+    width: 100%;
+    max-width: 100%;
+}
+
+.members .container .card .skills {
+    margin: 0 auto;
+}
+
+.members .container .card .skills img {
+    width: 100px;
+    height: 60px;
+    margin: 5px;
+    text-align: center;
+}
+
+.description-p {
+    background: linear-gradient(200deg, black, transparent);
+    color: #fff;
+    font-size: 17px;
+}
